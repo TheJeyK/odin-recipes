@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(72, 163, 216);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+a{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#chimi{
+    color: green;
+}
+
+#potato{
+    color: wheat;
+}
+
+#onion{
+    color: brown;
+}

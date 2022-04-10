@@ -18,9 +18,24 @@ img{
     margin-bottom: 100px;
 }
 
+ul{
+    display: inline-flex;
+    list-style: none;
+}
+
+li{
+    margin-right: 10px;
+}
+
 a{
     font-size: 28px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cyan;
+    padding: 10px;
+}
+
+a:hover{
+    background-color: darkcyan;
 }
 
 #chimichurri{
